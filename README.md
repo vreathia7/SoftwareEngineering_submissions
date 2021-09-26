@@ -1,5 +1,7 @@
 # Software Engineering_CSN302_submissions
 Contains UML diagrams and other documentation for the project being developed
+- Use-case diagram attached
+- Activity diagram attached
 
 ### Team Members:
 
