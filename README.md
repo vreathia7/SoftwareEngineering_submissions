@@ -3,7 +3,7 @@ Contains UML diagrams and other documentation for the project being developed
 
 ## Documentation:
 
-[PecPost - Documentation - UML Diagrams](https://images01.nicepage.com/page/30/75/website-template-preview-307500.jpg)
+[PecPost - Documentation - UML Diagrams](https://github.com/pecpost-connecting-platform/SoftwareEngineering_submissions/blob/main/UML%20diagrams/PecPost_combined_UML_diagrams_use-case_activity.pdf)
 
 ### Team Members:
 
